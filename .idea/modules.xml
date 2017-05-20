@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NYP/NYP.iml" filepath="$PROJECT_DIR$/NYP/NYP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PntMobileAutomation.iml" filepath="$PROJECT_DIR$/PntMobileAutomation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UiCatalog/UiCatalog.iml" filepath="$PROJECT_DIR$/UiCatalog/UiCatalog.iml" />
+    </modules>
+  </component>
+</project>
