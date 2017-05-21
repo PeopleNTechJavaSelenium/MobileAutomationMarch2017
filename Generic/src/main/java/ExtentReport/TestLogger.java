@@ -13,17 +13,17 @@ public class TestLogger {
 
     public static void log(final String message) {
         Reporter.log(message, true);
-        utility.ExtentReport.ExtentTestManager.getTest().log(LogStatus.INFO, message + "<br>");
+        ExtentReport.ExtentTestManager.getTest().log(LogStatus.INFO, message + "<br>");
     }
 
     public static void log(final StringUtils message) {
         Reporter.log(message + "<br>", true);
-        utility.ExtentReport.ExtentTestManager.getTest().log(LogStatus.INFO, message + "<br>");
+        ExtentReport.ExtentTestManager.getTest().log(LogStatus.INFO, message + "<br>");
     }
 
     public static void log(final String message, WebDriver driver) {
         Reporter.log(message + "<br>", true);
-        utility.ExtentReport.ExtentTestManager.getTest().log(LogStatus.INFO, message + "<br>");
+        ExtentReport.ExtentTestManager.getTest().log(LogStatus.INFO, message + "<br>");
     }
 
 

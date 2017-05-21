@@ -51,12 +51,6 @@
                 <artifactId>extentreports</artifactId>
                 <version>2.41.1</version>
             </dependency>
-            <!--https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-htmlunit-driver-->
-            <dependency>
-                <groupId>org.seleniumhq.selenium</groupId>
-                <artifactId>selenium-htmlunit-driver</artifactId>
-                <version>2.52.0</version>
-            </dependency>
             <dependency>
                 <groupId>commons-lang</groupId>
                 <artifactId>commons-lang</artifactId>
@@ -64,6 +58,5 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
-
 
 </project>

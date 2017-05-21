@@ -1,0 +1,11 @@
+{
+  "address": "127.0.0.1",
+  "app":"src/app/UICatalog6.1.app.zip",
+  "deviceName":"iPhone 6",
+  "debugLogSpacing": true,
+  "noReset": true,
+  "fullReset": false,
+  "platformName": "iOS",
+  "platformVersion":"10.0",
+  "port": "4723"
+}
