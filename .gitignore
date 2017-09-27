@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+Generic/src/main/resources/
+Generic/src/test/
+Generic/target/generated-sources/
+NYP/src/main/resources/
+NYP/target/generated-sources/
+NYP/target/generated-test-sources/
+UiCatalog/src/main/resources/
+UiCatalog/target/generated-sources/
+UiCatalog/target/generated-test-sources/
+.idea

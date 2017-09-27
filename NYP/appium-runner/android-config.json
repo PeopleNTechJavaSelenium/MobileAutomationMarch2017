@@ -1,0 +1,13 @@
+{
+  "address": "127.0.0.1",
+  "app":"src/app/nyp.apk",
+  "appPackage":"br.com.golmobile.nypost",
+  "appWaitPackage":"br.com.golmobile.nypost",
+  "automationName":"Appium",
+  "deviceName":"One Plus Two",
+  "debugLogSpacing": true,
+  "fullReset": true,
+  "platformName": "Android",
+  "platformVersion":"5.1",
+  "port": "4723"
+}
